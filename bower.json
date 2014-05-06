@@ -1,0 +1,25 @@
+{
+  "name": "androidjs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/strugee/androidjs",
+  "authors": [
+    "Alex Jordan <alexander3223098@gmail.com>"
+  ],
+  "description": "Create HTML elements that look and behave like native Android elements",
+  "main": "js/android.jquery.js",
+  "keywords": [
+    "android",
+    "jquery"
+  ],
+  "license": "AGPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
