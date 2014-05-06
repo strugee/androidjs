@@ -18,7 +18,7 @@
     "jquery"
   ],
   "author": "Alex Jordan",
-  "license": "AGPL",
+  "license": "LGPL3",
   "readmeFilename": "README.md",
   "gitHead": "da1e08380c59cd41ce1ef8f34243a22f0921713b",
   "bugs": {

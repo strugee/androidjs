@@ -11,7 +11,7 @@
     "android",
     "jquery"
   ],
-  "license": "AGPL",
+  "license": "LGPL3",
   "ignore": [
     "**/.*",
     "node_modules",
